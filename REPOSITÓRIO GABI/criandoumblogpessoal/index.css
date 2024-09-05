@@ -1,0 +1,50 @@
+body {
+    color: rgb(0, 0, 0);
+    background-color: rgb(247, 218, 235);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+   display: flex;
+   justify-content: space-between;
+   list-style-type: none;
+   align-items: center;
+   padding: 16px;
+}
+
+a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    
+}
+
+#foto {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border:5px solid rgb(249, 126, 169) ;
+}
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    color: rgb(249, 126, 169);
+}
+
+h3 { 
+    color: rgb(249, 126, 169)
+}
+
+h4 {
+    color: rgb(249, 126, 169)
+}
+
+h5 {color: rgb(249, 126, 169)
+} 
+
+#fotogit {
+    width: 30px;
+    height: 30px;
+}
